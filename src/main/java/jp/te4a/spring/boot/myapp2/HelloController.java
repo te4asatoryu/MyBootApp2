@@ -18,6 +18,6 @@ public class HelloController
 	
 	@RequestMapping("/taro")
 	public String taro() {
-		return "taro deat";
+		return "taro death";
 	}
 }
